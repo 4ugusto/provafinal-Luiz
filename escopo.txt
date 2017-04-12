@@ -1,0 +1,4 @@
+Sistema de COntrole de Estoque.
+
+Facilidade para cadastro e indentificação dos produtos estocados, praticidade na hora de fazer os pedidos dos novos produtos, verificação da data de validade e garantia dos produtos Armazenados.
+

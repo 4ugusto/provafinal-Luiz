@@ -1,0 +1,4 @@
+Titulo Historia: Cadastro dos Produtos
+Prioridade: Média
+
+- No cadastro do produto deve conter a o Nome, categoria, data de garantia, data de validade se produto de cunho alimenticio, a garantia, preco de venda, preco de custo, quantidade em estoque.Após a conclusão dos dados sera preciso clicar em cadastrar produto e logo em seguida sera apresentado uma mensagem que o produto foi cadastrado com sucesso, ao fim sera redirecionado para a tela de cadastro novamente ou a tela home.

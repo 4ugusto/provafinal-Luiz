@@ -1,0 +1,5 @@
+1-Controle dos produtos 
+2-Cadastro dos Produtos
+3-Usuarios para fazer a verificação
+4-Alerta sobre a garantia dos produtos e sobre suas datas de vencimentos.
+5-Alerta sobre Novos Pedidos e a quantidade em estoque
